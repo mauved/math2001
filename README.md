@@ -6,7 +6,7 @@ The Lean files corresponding to each chapter of the book are in the folder [`Mat
 
 You can run the code on the web using GitHub Codespaces, by clicking this link:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mauved/math2001)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hrmacbeth/math2001)
 
 (You will be prompted to sign in to GitHub.) This is the easiest way to get started if you have never used Lean before.  The workspace takes several minutes to set up and auto-install the Lean mathematical library; wait for the build to finish.  Your codespaces are listed at [github.com/codespaces](https://github.com/codespaces).
 
